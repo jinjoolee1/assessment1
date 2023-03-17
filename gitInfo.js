@@ -10,7 +10,6 @@
 */
 
 //CODE HERE
-
 var gitDefinition = "A developer tool used for source code management, used to handle projects of all sizes.";
 
 //////////////////PROBLEM 2////////////////////
@@ -29,7 +28,7 @@ var gitHubDefinition = "A website for public or private use, to track code chang
 */
 
 //CODE HERE
-var gitInitDefinition = "";
+var gitInitDefinition = "A command used to create a new Git repository.";
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -38,6 +37,7 @@ var gitInitDefinition = "";
 */
 
 //CODE HERE
+var gitCloneDefinition = "Makes an exact copy of a repository, usually locally on a user's computer";
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -46,6 +46,7 @@ var gitInitDefinition = "";
 */
 
 //CODE HERE
+var gitStatusDefinition = "Displays information regarding the state of a working directory which allows a user to see what changes have been committed, but does not show project history.";
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -57,7 +58,9 @@ var gitInitDefinition = "";
 */
 
 //CODE HERE
+var gitAddDefinition = "Adds current changes in a (in most cases) single current working directory";
 
+var gitAddCode = "git add A";
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -68,7 +71,9 @@ var gitInitDefinition = "";
 */
 
 //CODE HERE
+var gitCommitDefinition = "Pushes updates in a current working directory to GitHub along with a message of what changes have taken place";
 
+var gitCommitCode = "git commit -m 'initial commit'";
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -77,3 +82,4 @@ var gitInitDefinition = "";
 */
 
 //CODE HERE
+var gitPushDefinition = "Uploads local repository content (from your computer/device) to a remote repository, usually on GitHub.";
