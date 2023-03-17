@@ -4,15 +4,15 @@
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
-
+var faveColorsArr = ['red', 'green', 'black']
+var colorCopy = faveColorsArr.slice(0, 2)
 
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
+//CODE HERE
 
 var faveColorsArr = ['red', 'green', 'black']
 faveColorsArr.push('purple')
-//CODE HERE
-
 //////////////////PROBLEM 3////////////////////
 /*
   Using an array method, create a new array called 'middleNums' from the 
