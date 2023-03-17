@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+var gitDefinition = "A developer tool used for source code management, used to handle projects of all sizes.";
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,7 @@
 */
 
 //CODE HERE
+var gitHubDefinition = "A website for public or private use, to track code changes on projects and even give developers a place to test websites they have built before being publicly deployed.";
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +29,7 @@
 */
 
 //CODE HERE
+var gitInitDefinition = "";
 
 //////////////////PROBLEM 4////////////////////
 /*
