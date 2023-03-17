@@ -13,6 +13,7 @@ var colorCopy = faveColorsArr.slice(0, 2)
 
 var faveColorsArr = ['red', 'green', 'black']
 faveColorsArr.push('purple')
+
 //////////////////PROBLEM 3////////////////////
 /*
   Using an array method, create a new array called 'middleNums' from the 
@@ -23,6 +24,7 @@ const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
 
+var numbersArr = [1, 2, 3, 4, 5]
 
 //////////////////PROBLEM 4////////////////////
 /* 
