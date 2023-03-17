@@ -5,9 +5,12 @@ const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
 
+
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
+var faveColorsArr = ['red', 'green', 'black']
+faveColorsArr.push('purple')
 //CODE HERE
 
 //////////////////PROBLEM 3////////////////////
