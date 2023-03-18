@@ -25,6 +25,7 @@ const numbers = [1, 2, 3, 4, 5]
 //CODE HERE
 
 var numbersArr = [1, 2, 3, 4, 5]
+var middleNums = numbersArr.slice(1, 3)
 
 //////////////////PROBLEM 4////////////////////
 /* 
@@ -39,3 +40,16 @@ var numbersArr = [1, 2, 3, 4, 5]
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
+function bigOrSmall(arr) {
+  const answers = [];
+  for(let i = 0; i < arr.length; i++) {
+    if (arr[i] <= 100) {
+      answers.push('small');
+    } else {
+      answers.push('big');
+    }
+  }
+  return answers
+}
+
+console.log(bigOrSmall([0, 100]))
