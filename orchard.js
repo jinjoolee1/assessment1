@@ -157,9 +157,9 @@ while (x > 0)
 
 // CODE HERE
 
-// let fujiTons =
-// let galaTons =
-// let pinkTons =
+let fujiTons = []
+let galaTons = []
+let pinkTons = [] 
 
 
 
