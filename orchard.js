@@ -161,7 +161,17 @@ let fujiTons = []
 let galaTons = []
 let pinkTons = [] 
 
+for (let i = 0; i < fujiAcres.length; i++) {
+    console.log()
+  }
 
+for (let j = 0; j < galaAcres.length; i++) {
+    console.log()
+  }
+  
+for (let l = 0; l < pinkAcres.length; i++) {
+    console.log()
+  }
 
 
 
